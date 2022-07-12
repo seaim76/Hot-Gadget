@@ -1,0 +1,62 @@
+body{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Roboto', sans-serif;
+}
+.container .bg1{
+    background-image:url("images/bg-1.png");
+    background-repeat:no-repeat;
+    
+}
+.btn h2,p{
+    text-align: left;
+    margin: 10px;
+}
+
+.Buy-now:hover{
+    background-color:black;
+    border: none;
+   
+    color: whitesmoke;
+}
+.carousel-indicators .li{
+    background-color: rgb(167, 52, 212);
+}
+.carousel .carousel-indicators li {background-color: rgb(240, 227, 53);
+
+}
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+  }
+  .see{
+    color: rgb(255, 197, 6);
+  }
+.rad h3{
+    
+    text-align: center;
+    color: rgb(238, 156, 55);
+    font-weight: 900;
+}
+.category-section {
+    margin-bottom: 80px;
+}
+
+.title-pad {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+
+.categories-border {
+    border-bottom: 10px solid  #FFBB24;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}  
+
+.category-item {
+    padding:  20px 20px;
+}
